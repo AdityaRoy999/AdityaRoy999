@@ -5,7 +5,7 @@
 [![](https://visitcount.itsvg.in/api?id=AdityaRoy999&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ## 🙆‍♂️ About me:
-- 🙂 I am a UNGRAD currenty admitted to Btech CSE(cyber security and digital fornsics) at VIT BHOPAL.
+- 🙂 I am an UNGRAD currenty admitted to Btech CSE(cyber security and digital fornsics) at VIT BHOPAL.
 - 🌱 I’m currently learning **PYTHON**
 - ✔️I know the basics of html,c++ and java along with the mentioned frameworks  below.
 - 📑I am very interested in world of cyber.
