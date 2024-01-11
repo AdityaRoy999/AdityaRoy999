@@ -26,7 +26,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=AdityaRoy999&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🗺️ VIT BHOPAL UNIVERSITY:
-![]<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6232.74860285396!2d76.84720868836403!3d23.078500827512915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397ce9ceaaaaaaab%3A0xa224b6b82b421f83!2sVIT%20Bhopal%20University!5e0!3m2!1sen!2sin!4v1704992529677!5m2!1sen!2sin" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+![Map](https://raw.githubusercontent.com/AdityaRoy999/AdityaRoy999/main/vitbhopal%20university%20.png)
+[]([https://www.google.com/maps/place/your-location](https://www.google.co.in/maps/place/VIT+Bhopal+University/@23.0778216,76.8495819,763m/data=!3m1!1e3!4m6!3m5!1s0x397ce9ceaaaaaaab:0xa224b6b82b421f83!8m2!3d23.0774715!4d76.8512871!16s%2Fg%2F11hbgkdndx?entry=ttu))
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
