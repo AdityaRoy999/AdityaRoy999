@@ -2,6 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Roy!;" />
 </h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AdityaRoy999.AdityaRoy999" />
 <h3 align="center">I am currently studying in BTech CSE(Cyber security and digital fornsics at VIT BHOPAL UNIVERSITY).</h3>
 
 [![](https://visitcount.itsvg.in/api?id=AdityaRoy999&icon=5&color=0)](https://visitcount.itsvg.in)
