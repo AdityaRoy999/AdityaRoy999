@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Roy!;" />
 </h1>
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FAdityaRoy999%2FAdityaRoy999%2Fedit%2Fmain%2FREADME.md&countColor=%23263759&style=flat)
+
 <h3 align="center">I am currently studying in BTech CSE(Cyber security and digital fornsics at VIT BHOPAL UNIVERSITY).</h3>
 
 [![](https://visitcount.itsvg.in/api?id=AdityaRoy999&icon=5&color=0)](https://visitcount.itsvg.in)
