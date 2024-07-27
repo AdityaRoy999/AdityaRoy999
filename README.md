@@ -8,7 +8,7 @@
 [![](https://visitcount.itsvg.in/api?id=AdityaRoy999&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
-### 🙆‍♂️ About me:
+## 🙆‍♂️ About me:
    - 🙂 I am an UNGRAD currenty admitted to Btech CSE(cyber security and digital fornsics) at VIT BHOPAL.
    - 🌱 I’m currently learning **PYTHON**
    - ✔️I know the basics of html,c++ and java along with the mentioned frameworks  below.
@@ -16,7 +16,7 @@
    - ⚡ Fun fact **HTML is not a programming language**
   
 
-### 🌐 Socials:
+## 🌐 Socials:
 <p align="center">
     <a href="https://facebook.com/100038709563785"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
     <a href="https://instagram.com/a_d_i_t_y_a5005"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
@@ -26,7 +26,7 @@
 </p>
     
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco" />
 </p>
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AdityaRoy999&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
     <br>
@@ -63,12 +63,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaRoy999&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
 
-### 🏆 GitHub Trophies 
+## 🏆 GitHub Trophies 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=AdityaRoy999&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </p>
 
-### 🗺️ VIT Bhopal University:
+## 🗺️ VIT Bhopal University:
 <p align="center">
     <img src="https://raw.githubusercontent.com/AdityaRoy999/AdityaRoy999/main/vitbhopal%20university%20.png" alt="VIT Bhopal University">
     <br>
@@ -76,12 +76,12 @@
 </p>
 
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
 </p>
 
-### 🐍 Watch my contribution get eaten by a snake
+## 🐍 Watch my contribution get eaten by a snake
 <p align="center">
     <img src="https://github.com/AdityaRoy999/AdityaRoy999/blob/main/snake.svg" alt="Snake Eating Contributions">
 </p>
