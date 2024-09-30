@@ -68,23 +68,24 @@
     <img src="https://github-profile-trophy.vercel.app/?username=AdityaRoy999&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </p>
 
+<!--
 ## 🗺️ VIT Bhopal University:
 <p align="center">
     <img src="https://raw.githubusercontent.com/AdityaRoy999/AdityaRoy999/main/vitbhopal%20university%20.png" alt="VIT Bhopal University">
     <br>
     <a href="https://www.google.co.in/maps/place/VIT+Bhopal+University/@23.0778216,76.8495819,763m/data=!3m1!1e3!4m6!3m5!1s0x397ce9ceaaaaaaab:0xa224b6b82b421f83!8m2!3d23.0774715!4d76.8512871!16s%2Fg%2F11hbgkdndx?entry=ttu">View on Google Maps</a>
 </p>
-
+-->
 
 ## ✍️ Random Dev Quote
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
 </p>
 
-## 🐍 Watch my contribution get eaten by a snake
-<p align="center">
-    <img src="https://github.com/AdityaRoy999/AdityaRoy999/blob/main/snake.svg" alt="Snake Eating Contributions">
-</p>
+
+## 📍 My Holo Pins
+[![An image of @adityaroy999's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityaroy999)](https://holopin.io/@adityaroy999)
+
 
 
 
